@@ -1,0 +1,55 @@
+export const Kereta = [
+  {
+    id: 1,
+    name: "Argo Wilis",
+    kelas: "Eksekutif (H)",
+    depart: "05.00",
+    from: "Gambir",
+    arrv: "10.05",
+    to: "Surabaya",
+    durasi: "5j 05m",
+    harga: "Rp 250.000",
+  },
+  {
+    id: 2,
+    name: "Wilis Argo",
+    kelas: "Eksekutif (Q)",
+    depart: "05.00",
+    from: "Gambir",
+    arrv: "10.05",
+    to: "Surabaya",
+    durasi: "5j 05m",
+    harga: "Rp 200.000",
+  },
+  {
+    id: 3,
+    name: "Sumber Kencana",
+    kelas: "Eksekutif (Q)",
+    depart: "05.00",
+    from: "Gambir",
+    arrv: "10.05",
+    to: "Surabaya",
+    durasi: "5j 05m",
+    harga: "Rp 200.000",
+  },
+  {
+    id: 4,
+    name: "Sinkansen",
+    kelas: "Eksekutif (Q)",
+    depart: "05.00",
+    from: "Gambir",
+    arrv: "10.05",
+    to: "Surabaya",
+    durasi: "5j 05m",
+    harga: "Rp 200.000",
+  },
+];
+
+export const userData = [
+  {
+    id: 1,
+    name: "Antonio",
+    email: "anton@gmail.com",
+    password: "12345",
+  },
+];

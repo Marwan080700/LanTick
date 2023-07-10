@@ -1,0 +1,23 @@
+/* navigation */
+
+.btn-login:hover {
+  transform: scale(0.9);
+  transition: all 0.7s ease-in-out;
+}
+
+.btn-daftar:hover {
+  background: linear-gradient(45deg, #e6649a, #e66465);
+  transform: scale(0.9);
+  transition: all 0.7s ease-in-out;
+}
+
+/* login */
+
+.btn-input-login {
+  background: linear-gradient(45deg, #e6649a, #e66465);
+}
+
+/* daftar */
+.btn-input-daftar {
+  background: linear-gradient(45deg, #e6649a, #e66465);
+}
